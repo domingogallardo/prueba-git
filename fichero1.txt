@@ -1,3 +1,6 @@
+RELEASE 1.0
+===========
+
 Línea 10
 Línea 20
 Línea 30
@@ -7,3 +10,5 @@ Línea 5
 Línea 6
 Línea 7
 Línea 8
+
+Nueva feature 1
